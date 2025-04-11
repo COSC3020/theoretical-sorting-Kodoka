@@ -16,3 +16,11 @@ Also give a theoretical argument for why X could or could not be correct, based
 on the complexity of the general sorting problem we covered in class.
 
 Add your answers to this markdown file.
+
+# My Solution
+
+My first response would be to call X a liar! From my general understanding,
+suplemented by the sources below, and our discussions in class it is not
+mathematically possible to have a comparison based sorting algorithm that
+performs better than $\Theta(n \cdot \log_{2} n)$. To sort $n$ elements you
+must
