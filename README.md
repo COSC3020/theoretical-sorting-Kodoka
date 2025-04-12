@@ -17,7 +17,7 @@ on the complexity of the general sorting problem we covered in class.
 
 Add your answers to this markdown file.
 
-# How I Would Text X's Claim, and Expected Results
+# How I Would Test X's Claim, and Expected Results
 
 I think the best way to test X's claim would be to feed the black-box
 implementation of their sorting algorithm fully random arrays, sorted -
@@ -33,7 +33,7 @@ linearly with n, despite the favorability of the input.
 
 What I suspect I'll see instead is something like Bubble or Insertion
 sort, where in the best case the algorithm performs in $O(n)$, and in
-worst case O(n^2)$. Whether X maliciously lied about the performance
+worst case $O(n^2)$. Whether X maliciously lied about the performance
 of their algorithm to try and get rich, there was a flaw in the timing
 code, there was a flaw in the code generating test cases, or a flaw in
 the code actually sorting, I doubt their algorithm actually performs
@@ -89,11 +89,11 @@ All of that is to say I'm accusing X of being a liar on the grounds that
 mathematically, their claim isn't possible; however, playing the Devil's
 advocate for just a moment, I will concede I don't know a whole lot about
 quantum computing, but based on my very rudimentary understanding, perhaps,
-if that is the basis technology for his sorting algorithm, perhaps this is
+if that is the basis technology for his sorting algorithm, this is
 possible, as all the true and false branches are established when the
 quantum state colapses, or something like that.
 
-## Sources
+# Sources
 
 I read through and referenced material from the slides in class.
 
@@ -108,3 +108,7 @@ https://www.youtube.com/watch?v=H63BxAX27p0
 https://www.youtube.com/watch?v=agXcXEjg_kc  
 https://www.youtube.com/watch?v=alJswNJ4P3U  
 https://www.youtube.com/watch?v=WffUZk1pgXE  
+
+# Plagiarism Notice
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
